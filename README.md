@@ -7,4 +7,4 @@ Dataset: https://www.kaggle.com/datasets/ekrembayar/fifa-21-complete-player-data
 
 Planning: https://trello.com/b/i10Ibwp4/fifa-project
 
-Group: Sandra Cunha, Jesus Cabecas
+Group: Sandra Cunha, Jesús Cabezas
